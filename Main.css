@@ -1,0 +1,27 @@
+/* This is a comment*/
+body{
+    background-color:rgb(24, 85, 0) ;
+    text-align: center;
+    color: blanchedalmond;
+}
+
+nav {
+height: 200px;
+width: 200px;
+float: left;
+padding: 10px;
+line-height: 20px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+
+img{
+    margin-right: 0px;
+}
+
+a{
+    color:rgb(91, 91, 255);
+}
